@@ -1,7 +1,7 @@
-# <img src="MindMesh.png" alt="MindMesh Logo" width="40" height="40" style="vertical-align: middle;"> MindMesh
+# MindMesh
 
 <div align="center">
-  <img src="MindMesh.png" alt="MindMesh Logo" width="200" height="200">
+  <img src="frontend/public/MindMesh.png" alt="MindMesh Logo" width="500">
   <h1>Collaborative Study Platform</h1>
   
   <p>
@@ -15,11 +15,6 @@
 <p align="center">
   <b>MindMesh</b> is a comprehensive real-time collaborative study platform designed for students who want to study together remotely. It provides an integrated environment combining video conferencing, collaborative tools, and study management features in one seamless experience.
 </p>
-
-<div align="center">
-  <img src="https://via.placeholder.com/1200x600?text=MindMesh+Platform+Screenshot" alt="MindMesh Platform Screenshot" width="80%">
-</div>
-
 ---
 
 ## 📋 Table of Contents
@@ -29,7 +24,7 @@
 | [✨ Features](#-features) | [🛠️ Tech Stack](#-tech-stack) | [🏗 Architecture](#-architecture) |
 |:------------------------:|:-----------------------------:|:--------------------------------:|
 | [🚀 Getting Started](#-getting-started) | [🚢 Deployment](#-deployment) | [📚 API Docs](#-api-documentation) |
-| [🤝 Contributing](#-contributing) | [📄 License](#-license) | [📬 Contact](#-contact) |
+| [🤝 Contributing](#-contributing) | [📄 License](#-license) |  |
 
 </div>
 
@@ -192,7 +187,7 @@ MindMesh follows a modern microservices architecture:
 
 ```bash
 git clone https://github.com/btwshivam/MindMesh.git
-cd mindmesh
+cd MindMesh
 ```
 
 #### Backend Setup
@@ -241,10 +236,6 @@ cp backend/.env.example backend/.env
 ## 🚢 Deployment
 
 ### Using Docker Compose
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x200?text=Docker+Compose+Deployment" alt="Docker Compose Deployment" width="70%">
-</div>
 
 The easiest way to deploy the entire stack is using Docker Compose:
 
@@ -353,10 +344,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
 ---
 
 <div align="center">
-  <img src="MindMesh.png" alt="MindMesh Logo" width="60" height="60">
-  <p>Built with ❤️ by the MindMesh Team</p>
+  <img src="frontend/public/MindMesh.png" alt="MindMesh Logo" width="60">
+  <p>Built with ❤️ by Shivam</p>
 </div>
